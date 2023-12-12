@@ -2,7 +2,7 @@
   "profiles": {
     "Azure_Resume_Challenge": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7038",
+      "commandLineArgs": "--port 7153",
       "launchBrowser": false
     }
   }
