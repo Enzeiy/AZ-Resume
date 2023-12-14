@@ -1,5 +1,8 @@
 # Zean's Azure Resume
-This Azure Cloud Resume is a static website hosted on an Azure Storage, built with a HTTP trigger visitor counter that runs on Azure Functions and CosmosDB. The project is also paired with Github for Continuous Integration and Continuous Delivery (CI/CD).
+This is the Azure Cloud Resume Challenge. The significance of this challenge is to test the skills and knowledge of aspiring cloud engineers in deploying and utilizing different tools and azure resouces.
+
+
+This Azure Cloud Resume is a static website made of HTML, CSS, and JavaScript that is hosted in a Azure Storage. The project has an integrated visitor counter feature that is made with .NET and Azure Functions binded with Azure CosmosDB. The Project is also paired with Github that serves as version control for Continuous Integration and Continuous Delivery.
 
 This Project was referenced and guided by [Gwyneth Pena-Siguenza](https://github.com/madebygps).
 
