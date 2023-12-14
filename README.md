@@ -4,4 +4,5 @@ This Azure Cloud Resume is a static website hosted on an Azure Storage, built wi
 This Project was referenced and guided by Gwyneth Pena-Siguenza.
 
 ## Architecture Diagram
-!(Architecture Diagram.PNG)
+![architecture](Architecture Diagram.png)
+
