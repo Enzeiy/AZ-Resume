@@ -25,3 +25,7 @@ Prepare all the following files, tools, ennvironments, accounts, and resources t
      - C# Extension
 
 ## Structure
+   - .github/workflows
+   - vscode
+   - frontend
+   - backend 
